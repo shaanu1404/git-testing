@@ -1,0 +1,24 @@
+{
+  "name": "git-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaanu1404/git-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaanu1404/git-testing/issues"
+  },
+  "homepage": "https://github.com/shaanu1404/git-testing#readme",
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
